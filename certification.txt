@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the FlipMart 1.0
+---------------------------------------------------
+
+app_name - 						FlipMart
+app_alias - 					flipmart
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Madhya Pradesh
+app_author_country - 			India
+app_password - 					0JKxiwEBQvtt
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 22nd of July 2025 08:08:55 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
